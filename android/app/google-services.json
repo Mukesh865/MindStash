@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532106444277",
+    "project_id": "mind-stash-app-38131",
+    "storage_bucket": "mind-stash-app-38131.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532106444277:android:0a8636aee5968cf6c5f4bc",
+        "android_client_info": {
+          "package_name": "com.mindstash.mindstash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPRO4DnEa6ifgRYMPWtUytmVtPi_gDkgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
