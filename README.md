@@ -14,11 +14,14 @@
 
 - **Flutter** (Frontend UI & App Development)
 - **Firebase Firestore** (Realtime Database)
-- **Provider / Riverpod** (State Management) *(mention which one you used)*
+- **Provider / Riverpod** (State Management)
 
 ## 📸 Screenshots
+![signup](https://github.com/user-attachments/assets/e3e6061a-a34a-45ed-b560-7452aa882a13)
+![login](https://github.com/user-attachments/assets/f25269c8-80ca-4842-a4a0-905ad212c4d9)
+![home ](https://github.com/user-attachments/assets/9e41f370-f244-4942-b8dd-270008fa24c8)
+![empty](https://github.com/user-attachments/assets/a1bf01c3-c9bf-44ed-a795-3472e3f4e38f)
 
-*(Add app screenshots here)*
 
 ## 🚀 Getting Started
 
@@ -29,29 +32,12 @@
 
 ### Installation
 
-```bash
-git clone https://github.com/yourusername/DailyApp.git
-cd DailyApp
-flutter pub get
-flutter run
-```
-
 ### Firebase Setup
 1. Create a Firebase project at [Firebase Console](https://console.firebase.google.com/).
 2. Enable Firestore Database.
 3. Download the `google-services.json` (for Android) and/or `GoogleService-Info.plist` (for iOS).
 4. Add them to the appropriate platform folders.
 
-## 📦 Folder Structure
-
-```
-lib/
- ┣ models/
- ┣ services/
- ┣ screens/
- ┣ widgets/
- ┗ main.dart
-```
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues or pull requests for improvements.
